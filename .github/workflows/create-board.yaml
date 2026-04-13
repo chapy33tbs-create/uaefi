@@ -9,3 +9,5 @@ jobs:
     uses: andreika-git/hellen-one/.github/workflows/create-board.yaml@master
     permissions:
       contents: write
+      actions: write
+      checks: write
